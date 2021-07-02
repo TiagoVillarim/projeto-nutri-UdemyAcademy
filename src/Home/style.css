@@ -1,0 +1,93 @@
+.container-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(235, 235, 235);
+}
+
+.container-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(83, 221, 210);
+  width: 100%;
+}
+
+header h1 {
+  border-left: dotted 1px rgb(56, 56, 56) ;
+  border-right: dotted 1px rgb(56, 56, 56);
+  padding-left: 6px ;
+  padding-right: 6px;
+}
+
+.titulo {
+  display: flex;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.capa {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  outline: none;
+  box-shadow: 2px 2px 2px 2px rgb(226, 226, 226);
+  width: 700px;
+}
+
+.post {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 55px;
+  width: 700px;
+}
+
+
+.subtitle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  background-color: rgb(243, 243, 243);
+
+  border-radius: 20px;
+
+  height: auto;
+
+  padding: 10px;
+
+  box-shadow: 2px 2px 2px 2px rgb(226, 226, 226);
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  color: rgb(83, 221, 210);
+  background-color: rgb(241, 241, 241);
+  border: 2px solid rgb(83, 221, 210); 
+
+  width: 600px;
+  height: 40px;
+
+  margin-top: 20px;
+
+  border-radius: 10px;
+
+  cursor: pointer;
+
+  transition: 0.4s;
+}
+
+.button:hover {
+  color: rgb(241, 241, 241);
+  background-color: rgb(83, 221, 210);
+}
