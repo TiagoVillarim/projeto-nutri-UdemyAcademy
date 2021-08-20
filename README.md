@@ -1,4 +1,4 @@
-Study project of a nutriction web page by Udemy academy
+First study project of a nutriction web page by Udemy academy
 
 ![image](https://user-images.githubusercontent.com/64990900/130163199-71977815-3997-4952-8f1c-c650510970d0.png)
 ![image](https://user-images.githubusercontent.com/64990900/130163220-e9512b95-b37c-48d9-9266-7c8683e68df4.png)
